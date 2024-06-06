@@ -1,0 +1,24 @@
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+}
+
+p {
+  font-size: 35px;
+}
+
+button:hover {
+  background-color: green;
+  transition: all 0.5s;
+}
